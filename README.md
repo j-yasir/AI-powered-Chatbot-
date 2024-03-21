@@ -49,9 +49,9 @@ high-quality customer service and support.
 
 
 ## Steps to Run
-pip install requirenments.txt
-run app_ChatIBA.py for UI based chatbot
-run chatIBA to run the chatbot in terminal
+pip install requirenments.txt <br>
+run app_ChatIBA.py for UI based chatbot <br>
+run chatIBA to run the chatbot in terminal <br>
 
 
 ## Terminal based Chatbot :
